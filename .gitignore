@@ -1,0 +1,25 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Build files
+build/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Editor-specific files
+.vscode/
+
+# Temporary files
+*.tmp
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Configuration files that may contain sensitive information
+config.json
