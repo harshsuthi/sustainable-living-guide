@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Local Recycling Center",
+        "type": "Recycling",
+        "location": "123 Green St, Anytown",
+        "website": "https://recycling-center.com"
+    },
+    {
+        "name": "Organic Farmers Market",
+        "type": "Food",
+        "location": "456 Fresh Rd, Anytown",
+        "website": "https://farmers-market.com"
+    },
+    {
+        "name": "Energy Efficiency Tips",
+        "type": "Energy",
+        "location": "Online",
+        "website": "https://energy-efficiency-tips.com"
+    }
+]
